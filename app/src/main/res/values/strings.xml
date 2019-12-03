@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Global Math Game</string>
+    <string name="questionTitle">Question</string>
+    <string name="resetBtnLabel">Reset</string>
+    <string name="answerCorrect">Correct</string>
+    <string name="answerWrong">Wrong</string>
+    <string name="scoreMessage">Your score is</string>
+    <string name="notificationHeader">Global Math Game</string>
+</resources>
